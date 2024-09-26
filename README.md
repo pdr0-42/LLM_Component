@@ -21,8 +21,7 @@ This project is an API built with FastAPI that provides a service for calling an
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/pdr0-42/LLM_Component.git
    ```
 
 2. Environment variables setup:
